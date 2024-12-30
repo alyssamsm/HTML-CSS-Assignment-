@@ -1,0 +1,23 @@
+/* Applied common styles for both h1 and p tags */
+.fb-text-style {
+    text-align: center;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Specific styles for h1 */
+h1 {
+    text-align: center;
+    color: #1877F2;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 60px;
+    letter-spacing: -1px;
+}
+
+/* Specific styles for p */
+p {
+    text-align: center;
+    color: #999;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
